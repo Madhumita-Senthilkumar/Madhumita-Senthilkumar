@@ -15,4 +15,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JAVASCRIPT</li>  
+  <li>C</li>
+  <li>JAVA</li>
+  <li>PYTHON</li>
   </ul>
