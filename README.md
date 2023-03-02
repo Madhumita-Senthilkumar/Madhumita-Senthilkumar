@@ -19,3 +19,6 @@
   <li>JAVA</li>
   <li>PYTHON</li>
   </ul>
+<ul>
+  <li>UI Designer</li>
+  </ul>
