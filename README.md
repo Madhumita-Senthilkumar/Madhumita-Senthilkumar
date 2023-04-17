@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
@@ -23,4 +23,5 @@
   <h3 align="left">Tools :</h3>
 <ul>
   <li>FIGMA</li>
+  <li>GitKraken</li>
   </ul>
